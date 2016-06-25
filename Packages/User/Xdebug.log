@@ -1,0 +1,5 @@
+[05/18/2016 05:33:33PM] INFO - ==== Loading 'Xdebug Client.sublime-package' package ====
+[05/18/2016 05:33:33PM] INFO - Failed to open /home/kelvin/.config/sublime-text-3/Packages/User/Xdebug.breakpoints.
+[05/18/2016 05:33:33PM] INFO - Failed to parse /home/kelvin/.config/sublime-text-3/Packages/User/Xdebug.breakpoints.
+[05/18/2016 05:33:33PM] INFO - Failed to open /home/kelvin/.config/sublime-text-3/Packages/User/Xdebug.expressions.
+[05/18/2016 05:33:33PM] INFO - Failed to parse /home/kelvin/.config/sublime-text-3/Packages/User/Xdebug.expressions.

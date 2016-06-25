@@ -1,0 +1,1129 @@
+{
+	"folder_history":
+	[
+		"/etc/nginx/sites-available",
+		"/home/kelvin/workspace/rails_projects/sample_app"
+	],
+	"last_version": 3114,
+	"last_window_id": 3,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 1000.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"he",
+						"helm"
+					],
+					[
+						"boot",
+						"bootstrap	(Gemfile)"
+					],
+					[
+						"fun",
+						"func main	func main {...} ʂ"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"bac",
+						"background"
+					],
+					[
+						"text",
+						"text-decoration"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"last_filter": "pcrp",
+				"selected_items":
+				[
+					[
+						"pcrp",
+						"Project Manager: Clear Recent Projects"
+					],
+					[
+						"pcip",
+						"Package Control: Install Package"
+					],
+					[
+						"pcup",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"omniu",
+						"OmniMarkupPreviewer: Export Current Markup as HTML"
+					],
+					[
+						"omnimark",
+						"OmniMarkupPreviewer: Preview Current Markup in Browser"
+					],
+					[
+						"pcr",
+						"Package Control: Remove Package"
+					],
+					[
+						"godef",
+						"GoSublime: Default Settings"
+					],
+					[
+						"",
+						"GoSublime: Goto Definition"
+					],
+					[
+						"GD",
+						"Goto Documentation"
+					],
+					[
+						"Godef",
+						"GoSublime: Default Settings"
+					],
+					[
+						"GoDef",
+						"GoSublime: Goto Definition"
+					],
+					[
+						"bea",
+						"BeautifyRuby"
+					],
+					[
+						"pca",
+						"Package Control: Add Repository"
+					],
+					[
+						"PCR",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 588.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/var/www/html/yourwebsite.com/public_html/.htaccess",
+				"/var/www/html/yourwebsite.com/public_html/2.htaccess",
+				"/home/kelvin/workspace/rails_projects/sample_app/.htaccess",
+				"/home/kelvin/Documents/md/vhost.conf",
+				"/home/kelvin/Documents/md/index.html",
+				"/var/www/html/yourwebsite.com/public_html/1.php",
+				"/etc/nginx/sites-available/default",
+				"/etc/php/7.0/fpm/php.ini",
+				"/var/www/html/yourwebsite.com/public_html/app/config/config.yml",
+				"/etc/nginx/sites-available/yourwebsite.com",
+				"/etc/hosts",
+				"/home/kelvin/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/home/kelvin/.config/sublime-text-3/Packages/GoSublime/CHANGELOG.md",
+				"/home/kelvin/Downloads/wintersmith-milchglas-template-master/contents/tags/flash.json",
+				"/home/kelvin/workspace/gnux.cn/blog/package.json",
+				"/home/kelvin/.emacs.d/init.el",
+				"/home/kelvin/.rvm/lib/rvm/capistrano.rb",
+				"/home/kelvin/Documents/timesheet.org",
+				"/home/kelvin/.emacs.d/general-lisp/key-bindings.el",
+				"/home/kelvin/.emacs.d/initial-scripts/install-emacs",
+				"/home/kelvin/.emacs.d/user-lisp/notify-send.el",
+				"/home/kelvin/.emacs.d/README.org",
+				"/home/kelvin/.emacs.d/general-lisp/appearance.el",
+				"/home/kelvin/.emacs.d/site-misc/emacs-w3m/ChangeLog",
+				"/home/kelvin/.emacs.d/user-lisp/setup-gnus.el",
+				"/home/kelvin/.emacs.d/user-lisp/setup-rcirc.el",
+				"/home/kelvin/.emacs.d/site-misc/emacs-w3m/shimbun/ChangeLog",
+				"/home/kelvin/.emacs.d/site-misc/emacs-w3m/ChangeLog.1",
+				"/home/kelvin/1.emacs.d/init.el",
+				"/home/kelvin/.emacs.d/site-lisp/org-notify.el",
+				"/home/kelvin/.emacs.d/elpa/org-plus-contrib-20160328/org-notify.el",
+				"/home/kelvin/.emacs.d/elpa/org-20160328/org-bibtex.el",
+				"/home/kelvin/.emacs.d/elpa/org-plus-contrib-20160328/org-bibtex-extras.el",
+				"/home/kelvin/.emacs.d/site-misc/emacs-w3m/w3m-util.el",
+				"/home/kelvin/.emacs.d/site-lisp/kill-ring-ido.el",
+				"/home/kelvin/.emacs.d/user-lisp/setup-thumb-frm.el",
+				"/home/kelvin/.emacs.d/user-lisp/setup-perspective.el",
+				"/home/kelvin/.emacs.d/user-lisp/setup-helm.el",
+				"/home/kelvin/.emacs.d/user-lisp/setup-projectile.el",
+				"/home/kelvin/.emacs.d/user-lisp/setup-evil.el",
+				"/home/kelvin/.emacs.d/elpa/evil-lisp-state-20160313.1159/evil-lisp-state.el",
+				"/home/kelvin/.emacs.d/general-lisp/custom.el",
+				"/home/kelvin/.e22macs.d/init.el",
+				"/home/kelvin/.emacs.d/lisp/init-textile.el",
+				"/home/kelvin/.emacs.d/elpa/flex-isearch-20130508.1503/flex-isearch.el",
+				"/home/kelvin/.emacs.d/elpa/ido-ubiquitous-20151121.1415/ido-ubiquitous.el",
+				"/home/kelvin/.emacs.d/elpa/ido-completing-read+-20151124.853/ido-completing-read+-autoloads.el",
+				"/home/kelvin/.emacs.d/elpa/ido-completing-read+-20151124.853/ido-completing-read+.el",
+				"/home/kelvin/.emacs.d/elpa/flex-isearch-20130508.1503/flex-isearch.elc",
+				"/home/kelvin/.emacs.d/elpa/flex-isearch-20130508.1503/flex-isearch-pkg.elc",
+				"/home/kelvin/.emacs.d/lisp/editing-utils/init-flex-isearch.el",
+				"/home/kelvin/.emacs.d/elpa/flex-isearch-20130508.1503/flex-isearch-autoloads.el",
+				"/home/kelvin/.emacs.d/elpa/expand-region-20150902.558/subword-mode-expansions.el",
+				"/home/kelvin/.emacs.d/elpa/expand-region-20150902.558/subword-mode-expansions.elc",
+				"/home/kelvin/.emacs.d/elpa/yasnippet-20151126.518/snippets/emacs-lisp-mode/word_regexp",
+				"/home/kelvin/.emacs.d/elpa/yasnippet-20151126.518/snippets/emacs-lisp-mode/x-word-or-region",
+				"/home/kelvin/.emacs.d/elpa/yasnippet-20151126.518/snippets/emacs-lisp-mode/word-or-region",
+				"/home/kelvin/.emacs.d/ido.last",
+				"/home/kelvin/.emacs.d/elpa/flex-isearch-20130508.1503/flex-isearch-pkg.el",
+				"/home/kelvin/.emacs.d/elpa/yasnippet-20151126.518/snippets/emacs-lisp-mode/replace-regexp",
+				"/home/kelvin/.emacs.d/elpa/yasnippet-20151126.518/snippets/emacs-lisp-mode/search-forward-regexp",
+				"/home/kelvin/.emacs.d/elpa/yasnippet-20151126.518/snippets/emacs-lisp-mode/search-backward-regexp",
+				"/home/kelvin/.emacs.d/elpa/yasnippet-20151126.518/snippets/emacs-lisp-mode/replace-regexp-in-string",
+				"/home/kelvin/Documents/clion.desktop",
+				"/home/kelvin/Documents/emacs.desktop",
+				"/home/kelvin/Documents/atom.desktop",
+				"/home/kelvin/Documents/emacs..desktop",
+				"/home/kelvin/Documents/eclipseandroid.desktop",
+				"/home/kelvin/Documents/emacs.desktop.desktop",
+				"/home/kelvin/Documents/eclipseandroid.desktop.desktop",
+				"/usr/share/applications/emacs-snapshot.desktop",
+				"/usr/share/applications/eclipseandroid.desktop.desktop",
+				"/usr/share/applications/emacs.ico",
+				"/usr/share/applications/emacs.png",
+				"/home/kelvin/share/applications/eclipse.desktop",
+				"/home/kelvin/share/applications/emacs.desktop",
+				"/home/kelvin/1emacs-24.5/etc/emacs.desktop",
+				"/home/kelvin/Downloads/emacs/etc/emacs.desktop",
+				"/home/kelvin/.e22macs.d/.emacs.desktop",
+				"/home/kelvin/emacs-24.5/nextstep/templates/Emacs.desktop.in",
+				"/home/kelvin/emacs-24.5/src/deps/emacs.d",
+				"/home/kelvin/emacs-24.5/etc/emacs.desktop",
+				"/home/kelvin/z.sh",
+				"/etc/alternatives/emacs",
+				"/home/kelvin/Documents/ruby on rails for sublime_160328232241.html",
+				"/home/kelvin/Documents/如何在2016年成为一个更好的 Node.js 开发者.md",
+				"/home/kelvin/.config/sublime-text-3/Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+				"/home/kelvin/Documents/web/idea.desktop",
+				"/home/kelvin/Documents/eclipse.desktop",
+				"/opt/emacs/share/applications/emacs.desktop",
+				"/home/kelvin/Documents/轻松搭建基于 go 1.5 开发 Android 应用的环境.md",
+				"/home/kelvin/Documents/标准设备的 Media Queries.md",
+				"/home/kelvin/workspace/rails_projects/sample_app/app/assets/stylesheets/application.css",
+				"/home/kelvin/Documents/ruby on rails for sublime.md",
+				"/home/kelvin/workspace/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss",
+				"/home/kelvin/workspace/rails_projects/sample_app/config/database.yml",
+				"/home/kelvin/workspace/rails_projects/sample_app/app/helpers/application_helper.rb",
+				"/home/kelvin/.config/sublime-text-3/Packages/User/GoSublime.sublime-settings",
+				"/home/kelvin/ClionProjects/example-package-dealer/Package.swift",
+				"/home/kelvin/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/kelvin/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/kelvin/.config/sublime-text-3/Packages/User/OmniMarkupPreviewer.sublime-settings",
+				"/home/kelvin/.config/sublime-text-3/Packages/OmniMarkupPreviewer/OmniMarkupPreviewer.sublime-settings",
+				"/home/kelvin/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/kelvin/.config/sublime-text-3/Packages/User/Markdown.sublime-settings",
+				"/home/kelvin/workspace/rails_projects/sample_app/app/views/layouts/application.html.erb",
+				"/home/kelvin/workspace/rails_projects/sample_app/app/views/static_pages/home.html.erb",
+				"/home/kelvin/workspace/rails_projects/sample_app/Gemfile",
+				"/home/kelvin/Downloads/1style.min.css",
+				"/home/kelvin/workspace/rails_projects/sample_app/config/application.rb",
+				"/home/kelvin/Downloads/style.min.css",
+				"/home/kelvin/idea.desktop",
+				"/home/kelvin/clion.desktop",
+				"/home/kelvin/emacs..dsktop",
+				"/home/kelvin/eclipse.desktop",
+				"/home/kelvin/Documents/gocode/PRTool/webServer/code.go",
+				"/home/kelvin/.config/sublime-text-3/Packages/User/Godef.sublime-settings",
+				"/home/kelvin/.config/sublime-text-3/Packages/Godef/Godef.sublime-settings",
+				"/home/kelvin/Documents/Preferences.sublime-settings",
+				"/home/kelvin/workspace/rails_projects/sample_app/app/controllers/static_pages_controller.rb",
+				"/home/kelvin/workspace/rails_projects/sample_app/app/views/static_pages/help.html.erb",
+				"/home/kelvin/workspace/rails_projects/sample_app/app/views/static_pages/contact.html.erb",
+				"/home/kelvin/workspace/rails_projects/sample_app/app/helpers/static_pages_helper.rb",
+				"/home/kelvin/.config/sublime-text-3/Packages/GoSublime/USAGE.md",
+				"/home/kelvin/workspace/rails_projects/sample_app/app/views/static_pages/about.html.erb",
+				"/home/kelvin/.config/sublime-text-3/Packages/GoSublime/GoSublime.sublime-settings",
+				"/home/kelvin/Videos/ga",
+				"/home/kelvin/workspace/www/html/blog/usr/themes/strata/post.php"
+			],
+			"find":
+			{
+				"height": 42.0
+			},
+			"find_in_files":
+			{
+				"height": 120.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"fix_pathinfo",
+					"symbol",
+					"M-s",
+					"fontset",
+					"speedbar",
+					"C-x C-j",
+					"backward",
+					"kill-ring-save",
+					"backup",
+					"gofmt-before-save",
+					"user",
+					"auto-c",
+					"initialize",
+					"flet",
+					"left",
+					"flet",
+					"thumb-frm",
+					"thumb",
+					"projectile",
+					"project",
+					"projectile",
+					"helm-project",
+					"nil",
+					"smart",
+					"major-modes ",
+					"efvar evil-lisp-state-major-mode-ma",
+					"state-major",
+					"smartparens",
+					"defcustom",
+					"compile",
+					"smartparens",
+					"C-M-f",
+					"req",
+					"sp",
+					"initi",
+					"ido",
+					"is-mac",
+					"require",
+					"idle-require",
+					"require",
+					"idle-require",
+					" git-commit-mode",
+					"  git-commit-mode",
+					"git",
+					"font",
+					"require-package",
+					"attempt",
+					"cl",
+					"overridden",
+					"refresh",
+					"ubiquitous",
+					"package",
+					"cl",
+					"isearch-regexp-function",
+					"isearch-word",
+					"search-word",
+					"word",
+					"defa",
+					"5000",
+					"2016",
+					" line-height: 24px",
+					"min",
+					"32px",
+					"line-height",
+					"header",
+					"420",
+					"32px",
+					"body",
+					"nav li",
+					".header .nav",
+					"rails",
+					"ruby",
+					"gem",
+					".header .sologn",
+					".logo a",
+					"limg",
+					".header .logo",
+					".header",
+					".header .hd",
+					"table",
+					"nav",
+					"nav ofh",
+					"ul",
+					"sologn",
+					"sologn fl",
+					"ol.page-navigator li.current a",
+					".header .hd",
+					"getDBURL",
+					"CODETable",
+					"auto_complete_delay",
+					"match_brackets_braces",
+					"indent_subsequent_lines",
+					"wrap_width",
+					"trim_automatic_white_space",
+					"indent_to_bracket",
+					"smart_indent",
+					"detect_indentation",
+					"translate_tabs_to_spaces",
+					"    ",
+					"fade_fold_buttons",
+					"fold_buttons",
+					"margin",
+					"word_separators",
+					"gutter",
+					"line_numbers",
+					"word_separators",
+					"open_files_in_new_window",
+					" \"open_files_in_new_window\"",
+					"scroll_past_end",
+					"highlight_modified_tabs",
+					"match_brackets_angle",
+					"scroll_speed",
+					"auto_complete_with_fields",
+					"auto_complete_triggers",
+					"c",
+					"\",\n",
+					"ensure_newline_at_eof_on_save",
+					"default_line_ending",
+					"close_windows_when_empty",
+					"open_files_in_new_window",
+					"hot_exit",
+					"overlay_scroll_bars",
+					"use_simple_full_screen",
+					"show_tab_close_buttons",
+					"tree_animation_enabled",
+					"scroll_speed",
+					"find_selected_text",
+					"shift_tab_unindent"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"isearch-word",
+					"isearch-regexp-function"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 43.0
+			},
+			"input":
+			{
+				"height": 53.0
+			},
+			"menu_visible": true,
+			"output.9o:///home/kelvin/gocode/macaron/utils":
+			{
+				"height": 222.0
+			},
+			"output.GoSublime-main-output":
+			{
+				"height": 198.0
+			},
+			"output.GoSublime-output":
+			{
+				"height": 198.0
+			},
+			"output.GsDoc-output-output":
+			{
+				"height": 222.0
+			},
+			"output.MarGo-output":
+			{
+				"height": 198.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 82.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"database.y",
+						"config/database.yml"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 341.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 1483.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"he",
+						"helm"
+					],
+					[
+						"boot",
+						"bootstrap	(Gemfile)"
+					],
+					[
+						"fun",
+						"func main	func main {...} ʂ"
+					],
+					[
+						"fl",
+						"float"
+					],
+					[
+						"bac",
+						"background"
+					],
+					[
+						"text",
+						"text-decoration"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"contents": "",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 364.0,
+				"last_filter": "pcup",
+				"selected_items":
+				[
+					[
+						"pcup",
+						"Package Control: Upgrade/Overwrite All Packages"
+					],
+					[
+						"pc",
+						"Package Control: Upgrade Package"
+					],
+					[
+						"list",
+						"Package Control: List Packages"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"inst",
+						"Package Control: Install Package"
+					],
+					[
+						"Package Control: ins",
+						"Package Control: Install Package"
+					],
+					[
+						"pcip",
+						"Package Control: List Packages"
+					],
+					[
+						"pcrp",
+						"Project Manager: Clear Recent Projects"
+					],
+					[
+						"omniu",
+						"OmniMarkupPreviewer: Export Current Markup as HTML"
+					],
+					[
+						"omnimark",
+						"OmniMarkupPreviewer: Preview Current Markup in Browser"
+					],
+					[
+						"pcr",
+						"Package Control: Remove Package"
+					],
+					[
+						"godef",
+						"GoSublime: Default Settings"
+					],
+					[
+						"",
+						"GoSublime: Goto Definition"
+					],
+					[
+						"GD",
+						"Goto Documentation"
+					],
+					[
+						"Godef",
+						"GoSublime: Default Settings"
+					],
+					[
+						"GoDef",
+						"GoSublime: Goto Definition"
+					],
+					[
+						"bea",
+						"BeautifyRuby"
+					],
+					[
+						"pca",
+						"Package Control: Add Repository"
+					],
+					[
+						"PCR",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 588.0
+			},
+			"console":
+			{
+				"height": 732.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/home/kelvin/workspace/rails_projects/sample_app",
+				"/home/kelvin/workspace/rails_projects/sample_app/app",
+				"/home/kelvin/workspace/rails_projects/sample_app/app/assets",
+				"/home/kelvin/workspace/rails_projects/sample_app/app/controllers",
+				"/home/kelvin/workspace/rails_projects/sample_app/app/controllers/concerns",
+				"/home/kelvin/workspace/rails_projects/sample_app/app/views",
+				"/home/kelvin/workspace/rails_projects/sample_app/app/views/layouts",
+				"/home/kelvin/workspace/rails_projects/sample_app/app/views/static_pages",
+				"/home/kelvin/workspace/rails_projects/sample_app/bin",
+				"/home/kelvin/workspace/rails_projects/sample_app/config",
+				"/home/kelvin/workspace/rails_projects/sample_app/test"
+			],
+			"file_history":
+			[
+				"/home/kelvin/workspace/rails_projects/sample_app/app/controllers/concerns/.keep",
+				"/home/kelvin/Downloads/duoshuo/embed.js",
+				"/etc/php/7.0/apache2/php.ini",
+				"/home/kelvin/.config/sublime-text-3/Packages/GoSublime/CHANGELOG.md",
+				"/etc/apache2/sites-available/gnux.cn.conf",
+				"/etc/apache2/sites-available/test.com.conf",
+				"/etc/hosts",
+				"/var/www/gnux.cn/public_html/.htaccess",
+				"/etc/nginx/nginx.conf",
+				"/home/kelvin/workspace/gnux.cn/yigrherb.com/contents/articles/red-herring/index.md",
+				"/etc/apache2/apache2.conf",
+				"/etc/apache2/sites-enabled/000-default.conf",
+				"/var/www/html/yourwebsite.com/public_html/.htaaccess",
+				"/etc/nginx/sites-available/yourwebsite.com",
+				"/var/www/html/yourwebsite.com/public_html/.htaccess",
+				"/var/www/html/yourwebsite.com/public_html/2.htaccess",
+				"/home/kelvin/workspace/rails_projects/sample_app/.htaccess",
+				"/home/kelvin/Documents/md/vhost.conf",
+				"/home/kelvin/Documents/md/index.html",
+				"/var/www/html/yourwebsite.com/public_html/1.php",
+				"/etc/nginx/sites-available/default",
+				"/etc/php/7.0/fpm/php.ini",
+				"/var/www/html/yourwebsite.com/public_html/app/config/config.yml",
+				"/home/kelvin/.config/sublime-text-3/Packages/HTML-CSS-JS Prettify/HTMLPrettify.sublime-settings",
+				"/home/kelvin/Downloads/wintersmith-milchglas-template-master/contents/tags/flash.json",
+				"/home/kelvin/workspace/gnux.cn/blog/package.json",
+				"/home/kelvin/.emacs.d/init.el",
+				"/home/kelvin/.rvm/lib/rvm/capistrano.rb",
+				"/home/kelvin/Documents/timesheet.org",
+				"/home/kelvin/.emacs.d/general-lisp/key-bindings.el",
+				"/home/kelvin/.emacs.d/initial-scripts/install-emacs",
+				"/home/kelvin/.emacs.d/user-lisp/notify-send.el",
+				"/home/kelvin/.emacs.d/README.org",
+				"/home/kelvin/.emacs.d/general-lisp/appearance.el",
+				"/home/kelvin/.emacs.d/site-misc/emacs-w3m/ChangeLog",
+				"/home/kelvin/.emacs.d/user-lisp/setup-gnus.el",
+				"/home/kelvin/.emacs.d/user-lisp/setup-rcirc.el",
+				"/home/kelvin/.emacs.d/site-misc/emacs-w3m/shimbun/ChangeLog",
+				"/home/kelvin/.emacs.d/site-misc/emacs-w3m/ChangeLog.1",
+				"/home/kelvin/1.emacs.d/init.el",
+				"/home/kelvin/.emacs.d/site-lisp/org-notify.el",
+				"/home/kelvin/.emacs.d/elpa/org-plus-contrib-20160328/org-notify.el",
+				"/home/kelvin/.emacs.d/elpa/org-20160328/org-bibtex.el",
+				"/home/kelvin/.emacs.d/elpa/org-plus-contrib-20160328/org-bibtex-extras.el",
+				"/home/kelvin/.emacs.d/site-misc/emacs-w3m/w3m-util.el",
+				"/home/kelvin/.emacs.d/site-lisp/kill-ring-ido.el",
+				"/home/kelvin/.emacs.d/user-lisp/setup-thumb-frm.el",
+				"/home/kelvin/.emacs.d/user-lisp/setup-perspective.el",
+				"/home/kelvin/.emacs.d/user-lisp/setup-helm.el",
+				"/home/kelvin/.emacs.d/user-lisp/setup-projectile.el",
+				"/home/kelvin/.emacs.d/user-lisp/setup-evil.el",
+				"/home/kelvin/.emacs.d/elpa/evil-lisp-state-20160313.1159/evil-lisp-state.el",
+				"/home/kelvin/.emacs.d/general-lisp/custom.el",
+				"/home/kelvin/.e22macs.d/init.el",
+				"/home/kelvin/.emacs.d/lisp/init-textile.el",
+				"/home/kelvin/.emacs.d/elpa/flex-isearch-20130508.1503/flex-isearch.el",
+				"/home/kelvin/.emacs.d/elpa/ido-ubiquitous-20151121.1415/ido-ubiquitous.el",
+				"/home/kelvin/.emacs.d/elpa/ido-completing-read+-20151124.853/ido-completing-read+-autoloads.el",
+				"/home/kelvin/.emacs.d/elpa/ido-completing-read+-20151124.853/ido-completing-read+.el",
+				"/home/kelvin/.emacs.d/elpa/flex-isearch-20130508.1503/flex-isearch.elc",
+				"/home/kelvin/.emacs.d/elpa/flex-isearch-20130508.1503/flex-isearch-pkg.elc",
+				"/home/kelvin/.emacs.d/lisp/editing-utils/init-flex-isearch.el",
+				"/home/kelvin/.emacs.d/elpa/flex-isearch-20130508.1503/flex-isearch-autoloads.el",
+				"/home/kelvin/.emacs.d/elpa/expand-region-20150902.558/subword-mode-expansions.el",
+				"/home/kelvin/.emacs.d/elpa/expand-region-20150902.558/subword-mode-expansions.elc",
+				"/home/kelvin/.emacs.d/elpa/yasnippet-20151126.518/snippets/emacs-lisp-mode/word_regexp",
+				"/home/kelvin/.emacs.d/elpa/yasnippet-20151126.518/snippets/emacs-lisp-mode/x-word-or-region",
+				"/home/kelvin/.emacs.d/elpa/yasnippet-20151126.518/snippets/emacs-lisp-mode/word-or-region",
+				"/home/kelvin/.emacs.d/ido.last",
+				"/home/kelvin/.emacs.d/elpa/flex-isearch-20130508.1503/flex-isearch-pkg.el",
+				"/home/kelvin/.emacs.d/elpa/yasnippet-20151126.518/snippets/emacs-lisp-mode/replace-regexp",
+				"/home/kelvin/.emacs.d/elpa/yasnippet-20151126.518/snippets/emacs-lisp-mode/search-forward-regexp",
+				"/home/kelvin/.emacs.d/elpa/yasnippet-20151126.518/snippets/emacs-lisp-mode/search-backward-regexp",
+				"/home/kelvin/.emacs.d/elpa/yasnippet-20151126.518/snippets/emacs-lisp-mode/replace-regexp-in-string",
+				"/home/kelvin/Documents/clion.desktop",
+				"/home/kelvin/Documents/emacs.desktop",
+				"/home/kelvin/Documents/atom.desktop",
+				"/home/kelvin/Documents/emacs..desktop",
+				"/home/kelvin/Documents/eclipseandroid.desktop",
+				"/home/kelvin/Documents/emacs.desktop.desktop",
+				"/home/kelvin/Documents/eclipseandroid.desktop.desktop",
+				"/usr/share/applications/emacs-snapshot.desktop",
+				"/usr/share/applications/eclipseandroid.desktop.desktop",
+				"/usr/share/applications/emacs.ico",
+				"/usr/share/applications/emacs.png",
+				"/home/kelvin/share/applications/eclipse.desktop",
+				"/home/kelvin/share/applications/emacs.desktop",
+				"/home/kelvin/1emacs-24.5/etc/emacs.desktop",
+				"/home/kelvin/Downloads/emacs/etc/emacs.desktop",
+				"/home/kelvin/.e22macs.d/.emacs.desktop",
+				"/home/kelvin/emacs-24.5/nextstep/templates/Emacs.desktop.in",
+				"/home/kelvin/emacs-24.5/src/deps/emacs.d",
+				"/home/kelvin/emacs-24.5/etc/emacs.desktop",
+				"/home/kelvin/z.sh",
+				"/etc/alternatives/emacs",
+				"/home/kelvin/Documents/ruby on rails for sublime_160328232241.html",
+				"/home/kelvin/Documents/如何在2016年成为一个更好的 Node.js 开发者.md",
+				"/home/kelvin/.config/sublime-text-3/Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+				"/home/kelvin/Documents/web/idea.desktop",
+				"/home/kelvin/Documents/eclipse.desktop",
+				"/opt/emacs/share/applications/emacs.desktop",
+				"/home/kelvin/Documents/轻松搭建基于 go 1.5 开发 Android 应用的环境.md",
+				"/home/kelvin/Documents/标准设备的 Media Queries.md",
+				"/home/kelvin/workspace/rails_projects/sample_app/app/assets/stylesheets/application.css",
+				"/home/kelvin/Documents/ruby on rails for sublime.md",
+				"/home/kelvin/workspace/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss",
+				"/home/kelvin/workspace/rails_projects/sample_app/config/database.yml",
+				"/home/kelvin/workspace/rails_projects/sample_app/app/helpers/application_helper.rb",
+				"/home/kelvin/.config/sublime-text-3/Packages/User/GoSublime.sublime-settings",
+				"/home/kelvin/ClionProjects/example-package-dealer/Package.swift",
+				"/home/kelvin/.config/sublime-text-3/Packages/User/Default (Linux).sublime-keymap",
+				"/home/kelvin/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+				"/home/kelvin/.config/sublime-text-3/Packages/User/OmniMarkupPreviewer.sublime-settings",
+				"/home/kelvin/.config/sublime-text-3/Packages/OmniMarkupPreviewer/OmniMarkupPreviewer.sublime-settings",
+				"/home/kelvin/.config/sublime-text-3/Packages/Default/Preferences.sublime-settings",
+				"/home/kelvin/.config/sublime-text-3/Packages/User/Markdown.sublime-settings",
+				"/home/kelvin/workspace/rails_projects/sample_app/app/views/layouts/application.html.erb",
+				"/home/kelvin/workspace/rails_projects/sample_app/app/views/static_pages/home.html.erb",
+				"/home/kelvin/workspace/rails_projects/sample_app/Gemfile",
+				"/home/kelvin/Downloads/1style.min.css",
+				"/home/kelvin/workspace/rails_projects/sample_app/config/application.rb",
+				"/home/kelvin/Downloads/style.min.css",
+				"/home/kelvin/idea.desktop",
+				"/home/kelvin/clion.desktop",
+				"/home/kelvin/emacs..dsktop",
+				"/home/kelvin/eclipse.desktop",
+				"/home/kelvin/Documents/gocode/PRTool/webServer/code.go",
+				"/home/kelvin/.config/sublime-text-3/Packages/User/Godef.sublime-settings"
+			],
+			"find":
+			{
+				"height": 42.0
+			},
+			"find_in_files":
+			{
+				"height": 120.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"fix_pathinfo",
+					"symbol",
+					"M-s",
+					"fontset",
+					"speedbar",
+					"C-x C-j",
+					"backward",
+					"kill-ring-save",
+					"backup",
+					"gofmt-before-save",
+					"user",
+					"auto-c",
+					"initialize",
+					"flet",
+					"left",
+					"flet",
+					"thumb-frm",
+					"thumb",
+					"projectile",
+					"project",
+					"projectile",
+					"helm-project",
+					"nil",
+					"smart",
+					"major-modes ",
+					"efvar evil-lisp-state-major-mode-ma",
+					"state-major",
+					"smartparens",
+					"defcustom",
+					"compile",
+					"smartparens",
+					"C-M-f",
+					"req",
+					"sp",
+					"initi",
+					"ido",
+					"is-mac",
+					"require",
+					"idle-require",
+					"require",
+					"idle-require",
+					" git-commit-mode",
+					"  git-commit-mode",
+					"git",
+					"font",
+					"require-package",
+					"attempt",
+					"cl",
+					"overridden",
+					"refresh",
+					"ubiquitous",
+					"package",
+					"cl",
+					"isearch-regexp-function",
+					"isearch-word",
+					"search-word",
+					"word",
+					"defa",
+					"5000",
+					"2016",
+					" line-height: 24px",
+					"min",
+					"32px",
+					"line-height",
+					"header",
+					"420",
+					"32px",
+					"body",
+					"nav li",
+					".header .nav",
+					"rails",
+					"ruby",
+					"gem",
+					".header .sologn",
+					".logo a",
+					"limg",
+					".header .logo",
+					".header",
+					".header .hd",
+					"table",
+					"nav",
+					"nav ofh",
+					"ul",
+					"sologn",
+					"sologn fl",
+					"ol.page-navigator li.current a",
+					".header .hd",
+					"getDBURL",
+					"CODETable",
+					"auto_complete_delay",
+					"match_brackets_braces",
+					"indent_subsequent_lines",
+					"wrap_width",
+					"trim_automatic_white_space",
+					"indent_to_bracket",
+					"smart_indent",
+					"detect_indentation",
+					"translate_tabs_to_spaces",
+					"    ",
+					"fade_fold_buttons",
+					"fold_buttons",
+					"margin",
+					"word_separators",
+					"gutter",
+					"line_numbers",
+					"word_separators",
+					"open_files_in_new_window",
+					" \"open_files_in_new_window\"",
+					"scroll_past_end",
+					"highlight_modified_tabs",
+					"match_brackets_angle",
+					"scroll_speed",
+					"auto_complete_with_fields",
+					"auto_complete_triggers",
+					"c",
+					"\",\n",
+					"ensure_newline_at_eof_on_save",
+					"default_line_ending",
+					"close_windows_when_empty",
+					"open_files_in_new_window",
+					"hot_exit",
+					"overlay_scroll_bars",
+					"use_simple_full_screen",
+					"show_tab_close_buttons",
+					"tree_animation_enabled",
+					"scroll_speed",
+					"find_selected_text",
+					"shift_tab_unindent"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"isearch-word",
+					"isearch-regexp-function"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/kelvin/workspace/rails_projects/sample_app"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 0,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"auto_name": "",
+									"default_dir": "/home/kelvin/workspace/rails_projects/sample_app",
+									"encoding_helper_encoding": "",
+									"function_name_status_row": 0,
+									"is_xml": false,
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 43.0
+			},
+			"input":
+			{
+				"height": 53.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.9o:///home/kelvin/gocode/macaron/utils":
+			{
+				"height": 222.0
+			},
+			"output.GoSublime-main-output":
+			{
+				"height": 198.0
+			},
+			"output.GoSublime-output":
+			{
+				"height": 198.0
+			},
+			"output.GsDoc-output-output":
+			{
+				"height": 222.0
+			},
+			"output.MarGo-output":
+			{
+				"height": 198.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080",
+			"project": "",
+			"replace":
+			{
+				"height": 82.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"database.y",
+						"config/database.yml"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+				"xdebug":
+				{
+					"hide_conflict": false
+				}
+			},
+			"show_minimap": false,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 341.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 2,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/home/kelvin/workspace/blog/blog.sublime-workspace",
+			"/home/kelvin/workspace/blog/js/app.min.sublime-workspace"
+		]
+	}
+}

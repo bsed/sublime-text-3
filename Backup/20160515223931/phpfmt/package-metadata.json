@@ -1,0 +1,1 @@
+{"sublime_text": ">=3000", "url": "https://github.com/phpfmt/sublime-phpfmt", "version": "13.0.0", "platforms": ["osx", "linux"], "description": "Plugin to format PHP code - supports also PSR1/2", "dependencies": []}

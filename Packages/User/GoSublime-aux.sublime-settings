@@ -1,0 +1,13 @@
+{
+	"9o.hist./home/kelvin/gocode":
+	[
+		"go run 123.go"
+	],
+	"9o.hist./home/kelvin/gocode/macaron/utils":
+	[
+		"go run hello.go"
+	],
+	"ann": "a16.05.07-1",
+	"install_version": "r16.05.07-1",
+	"version": "r16.05.07-1"
+}
