@@ -10,9 +10,9 @@
 
 看起来是大概是这个样子：
 
-[ss](ttp://f.cl.ly/items/1H3u0l370M260h380h27/controller.png)
+![ss](ttp://f.cl.ly/items/1H3u0l370M260h380h27/controller.png)
 
-[ss](http://cl.ly/image/3B2a0c0j1x0G/coffee.png)
+![ss](http://cl.ly/image/3B2a0c0j1x0G/coffee.png)
 
 编辑 markdown 的时候会变为舒服的纸黄色界面：
-[ss](http://cl.ly/image/390e3w1e2P1k/md.png)
+![ss](http://cl.ly/image/390e3w1e2P1k/md.png)
